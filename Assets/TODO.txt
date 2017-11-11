@@ -1,0 +1,4 @@
+implement other power ups
+bullet bill / blue shell (some way of getting back to first when losing)
+particles
+more SFX

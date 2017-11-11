@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="stuff.svg"
+   inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\boxoutline.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1346667"
+     inkscape:cx="-83.782747"
+     inkscape:cy="-273.72934"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3833"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="-4"
+     inkscape:window-y="764"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8499"
+       enabled="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.98700142;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3336"
+       width="190.62729"
+       height="190.62729"
+       x="161.47208"
+       y="70.977135"
+       ry="33.341656"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#004eff;fill-opacity:1;stroke:#000000;stroke-width:5.45499992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4154"
+       cx="529.86694"
+       cy="123.32181"
+       rx="9.6428576"
+       ry="15.60247" />
+    <ellipse
+       ry="15.60247"
+       rx="9.6428576"
+       cy="231.32181"
+       cx="529.86694"
+       id="ellipse4156"
+       style="fill:#004eff;fill-opacity:1;stroke:#000000;stroke-width:5.45499992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="fill:#004eff;fill-opacity:1;stroke:#000000;stroke-width:5.45499992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4158"
+       cx="613.86694"
+       cy="231.32181"
+       rx="9.6428576"
+       ry="15.60247" />
+    <ellipse
+       ry="15.60247"
+       rx="9.6428576"
+       cy="127.32181"
+       cx="613.86694"
+       id="ellipse4160"
+       style="fill:#004eff;fill-opacity:1;stroke:#000000;stroke-width:5.45499992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#004eff;fill-opacity:1;stroke:#000000;stroke-width:5.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4148"
+       width="98.571426"
+       height="197.14285"
+       x="522.85712"
+       y="79.505058"
+       ry="33.341702" />
+    <rect
+       ry="18.780064"
+       y="104.41393"
+       x="539.5517"
+       height="53.753689"
+       width="65.182274"
+       id="rect4150"
+       style="fill:#004eff;fill-opacity:1;stroke:#000000;stroke-width:6.06069374;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.324883"
+       y="33.118282"
+       id="text3349"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3351"
+         x="32.324883"
+         y="33.118282" /></text>
+    <g
+       id="g3359"
+       inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\boxoutline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\boxoutline.png"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:47.087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4162"
+         width="190.62729"
+         height="190.62729"
+         x="161.47208"
+         y="70.977135"
+         ry="33.341656"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3355"
+         y="225.02502"
+         x="219.15352"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:147.21562195px;line-height:125%;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"
+         inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\questionmark.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           y="225.02502"
+           x="219.15352"
+           id="tspan3357"
+           sodipodi:role="line">?</tspan></text>
+      <g
+         id="g4393"
+         transform="matrix(4.5736454,0,0,4.5736454,-400.44972,254.82619)"
+         inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\car.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <g
+           id="g5205"
+           style="stroke-width:0.91830469;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00d900;stroke-opacity:1;fill:none;fill-opacity:1"
+           inkscape:export-xdpi="29.902039"
+           inkscape:export-ydpi="29.902039"
+           inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\car.png">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#00d900;fill-opacity:1;stroke:none;stroke-width:0.91830469;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 91.239313,25.811573 q 1.599999,-2.35 4.249999,-2.75 l 0.05,0 2.599999,-0.3 0.1,-0.05 1.849999,-0.15 0.05,0 6.75,-0.3 6.8,0.3 1.85,0.15 0.15,0.05 2.6,0.3 0.1,0 q 2.65,0.4 4.2,2.75 1.75,2.5 1.8,8.3 l -0.3,5.3 0,0.05 -0.5,4.75 0,0.15 q -0.85,12.2 0.2,24.85 l 0.7,5.95 0,0.05 q 1.25,10.9 -6.35,11.55 l -11.25,0.65 -10.349999,-0.55 -0.85,-0.1 -0.05,0 q -4.999998,-0.45 -6.149998,-5.35 -0.6,-2.5 -0.15,-6.2 l 0,-0.05 0.6,-5.9 q 1.1,-12.65 0.25,-24.9 l 0,-0.15 -0.45,-4.8 q -0.3,-2.95 -0.3,-5.3 0,-5.8 1.8,-8.3 m 1.649999,1.1 q -1.45,2.2 -1.45,7.2 0,2.25 0.3,5.1 l 0.45,4.85 0,0.15 q 0.85,12.4 -0.25,25.2 l -0.65,6 q -0.449999,3.75 0.4,6 1,2.95 4.199999,3.35 l 0.65,0.1 10.349999,0.55 11,-0.65 q 5.6,-0.7 4.6,-9.35 l -0.7,-6 q -1.05,-12.8 -0.2,-25.2 l 0,-0.15 0.5,-4.85 0.3,-5.1 q -0.05,-5 -1.5,-7.2 -1.05,-1.6 -2.85,-1.9 l -2.6,-0.3 -1.95,-0.15 -6.6,-0.3 -6.6,0.3 -1.949999,0.15 -2.55,0.3 q -1.799999,0.3 -2.899999,1.9"
+             id="path3734"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3738"
+             d="m 100.28936,24.56157 -1.949859,0.149892 -2.55028,0.300207 c -1.199999,0.2 -2.166689,0.83323 -2.900019,1.899898 l 1.45023,1.050088 5.949928,-3.400085 z m 13.19978,0 5.95036,3.400085 1.4498,-1.050088 c -0.7,-1.066668 -1.65006,-1.699898 -2.85006,-1.899898 l -2.59982,-0.300207 -1.95028,-0.149892 z"
+             style="fill:none;stroke:#00d900;stroke-width:2.3832193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             sodipodi:nodetypes="cccccccccccccccccsssscscsc"
+             inkscape:connector-curvature="0"
+             style="fill:none;fill-opacity:1;stroke:#00d900;stroke-width:2.38321924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 118.25444,73.155006 c -3.56667,1.366667 -8.0318,3.023234 -11.36513,3.056567 -3.33333,-0.03333 -6.78333,-0.733333 -10.349999,-2.1 l 1.50896,-8.729054 c 2.999999,0.933333 5.374369,0.820057 8.841039,0.75339 3.46667,0.06667 5.79628,0.25803 8.86295,-0.675303 l 1.46753,8.319097 m 0.30857,-34.8151 -0.68905,10.79697 -0.45,0.45 -9.5,-0.85 -9.399999,0.85 c -0.3,0 -0.48333,-0.15 -0.55,-0.45 l -0.87086,-9.85073 c 3.33333,-0.8 7.639689,-1.691728 11.373019,-1.791728 3.73333,0.1 7.8261,1.381588 11.15943,2.181588 m -4.31159,19.69731 c 0,1.133333 -0.56667,1.7 -1.7,1.7 l -11.4,0 c -1.13333,0 -1.699999,-0.566667 -1.699999,-1.7 l 0,-2.95 c 0,-1.1 0.566669,-1.783333 1.699999,-2.05 1.73333,-0.466667 3.63333,-0.7 5.7,-0.7 2.06667,0 4,0.233333 5.8,0.7 1.06667,0.266667 1.52989,0.952236 1.6,2.05 0.15968,2.500294 0.03,2.251504 0,2.95"
+             id="path3742"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <rect
+           style="fill:#ff3300;fill-opacity:1;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3359"
+           width="12.337767"
+           height="61.845009"
+           x="140.96751"
+           y="20.85714"
+           ry="0"
+           inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\bar.png"
+           inkscape:export-xdpi="40.727268"
+           inkscape:export-ydpi="40.727268" />
+        <rect
+           style="fill:#000000;stroke:none;stroke-width:23.60000038000000100;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+           id="rect3791"
+           width="264.28571"
+           height="222.85715"
+           x="388.57141"
+           y="382.36218"
+           transform="matrix(0.21864398,0,0,0.21864398,87.555917,-55.716211)" />
+        <g
+           id="g4171"
+           inkscape:export-filename="C:\Users\Ajay\Documents\Unity Projects\2D Race\2D Racing 2\Assets\Sprites\Player\Player.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           transform="matrix(0.58928567,0,0,0.58928567,83.105578,21.426998)">
+          <rect
+             y="21.481833"
+             x="184.85248"
+             height="61.376488"
+             width="3.5920072"
+             id="rect4163"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.19999980999999960;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.19999980999999960;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4165"
+             width="34.983032"
+             height="3.5921018"
+             x="184.85248"
+             y="21.481833" />
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\test.png"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.19999980999999960;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4167"
+             width="3.5920072"
+             height="61.376488"
+             x="216.2435"
+             y="21.481833" />
+          <rect
+             y="79.26622"
+             x="184.85248"
+             height="3.5921018"
+             width="34.983032"
+             id="rect4169"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.19999980999999960;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:#ff3300;fill-opacity:1;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 174.70115,93.009651 -0.009,14.680379 c -15.88563,5.1407 -19.43615,25.18633 -21.38722,47.16463 l -12.33777,0 c -0.67425,-43.12828 13.27861,-58.627593 33.73364,-61.845009 z"
+           id="rect4177"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\right.png"
+           inkscape:export-xdpi="40.727268"
+           inkscape:export-ydpi="40.727268" />
+        <path
+           transform="matrix(0,-1,1,0,0,0)"
+           style="fill:#ff3300;fill-opacity:1;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -82.065638,247.06259 -12.337766,0 0,61.84501 12.337766,0 -31.133352,-82.26647 -31.13335,-8.0837 -61.84501,0 0,-12.33776 61.84501,0"
+           id="rect8506"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           style="fill:#ff3300;fill-opacity:1;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 980.71484 947.71875 A 158.21428 158.21428 0 0 0 822.5 1105.9336 L 857.79883 1105.9336 A 158.21428 158.21428 0 0 1 980.71484 983.16797 L 980.71484 947.71875 z "
+           transform="matrix(0.21864397,0,0,0.21864397,87.555918,-55.716211)"
+           id="path8512" />
+        <path
+           style="fill:#ff3300;fill-opacity:1;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 104.67297,126.89084 a 25.730626,25.730626 0 0 0 -25.730811,25.73039 25.730626,25.730626 0 0 0 25.730811,25.73079 25.730626,25.730626 0 0 0 25.73038,-25.73079 25.730626,25.730626 0 0 0 -25.73038,-25.73039 z m 0,5.30041 a 20.429897,20.429897 0 0 1 20.42997,20.42998 20.429897,20.429897 0 0 1 -20.42997,20.42997 20.429897,20.429897 0 0 1 -20.429976,-20.42997 20.429897,20.429897 0 0 1 20.429976,-20.42998 z"
+           id="path4169"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ff3300;fill-opacity:1;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 92.857422 1090.9336 C 55.66028 1090.9336 25.714844 1120.879 25.714844 1158.0762 L 25.714844 1305.2188 C 25.714844 1342.4159 55.66028 1372.3613 92.857422 1372.3613 L 240 1372.3613 C 277.19714 1372.3613 307.14258 1342.4159 307.14258 1305.2188 L 307.14258 1158.0762 C 307.14258 1120.879 277.19714 1090.9336 240 1090.9336 L 92.857422 1090.9336 z M 105.55469 1115.2188 L 227.30273 1115.2188 C 258.08007 1115.2188 282.85742 1139.9961 282.85742 1170.7734 L 282.85742 1292.5215 C 282.85742 1323.2988 258.08007 1348.0762 227.30273 1348.0762 L 105.55469 1348.0762 C 74.777356 1348.0762 50 1323.2988 50 1292.5215 L 50 1170.7734 C 50 1139.9961 74.777356 1115.2188 105.55469 1115.2188 z "
+           id="rect4174"
+           inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\Sprites\onscreenbox.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           transform="matrix(0.21864397,0,0,0.21864397,87.555918,-55.716211)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4191"
+           sodipodi:sides="5"
+           sodipodi:cx="259.8161"
+           sodipodi:cy="224.97691"
+           sodipodi:r1="35.300911"
+           sodipodi:r2="17.650455"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.9424778"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 259.8161,189.676 10.37468,21.02139 23.19848,3.37094 -16.78658,16.36287 3.96278,23.10475 -20.74936,-10.90858 -20.74935,10.90858 3.96277,-23.10475 -16.78658,-16.36287 23.19848,-3.37093 z"
+           inkscape:transform-center-y="-16.11076"
+           inkscape:export-filename="C:\Users\Ajay\Documents\Unity Projects\2D Race\2D Racing 2\Assets\Sprites\star.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120"
+           transform="matrix(0.99381814,0,0,1.0449622,-50.94611,56.405625)" />
+        <path
+           style="fill:#00bb00;fill-opacity:1;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 126.91189,274.39388 a 13.521388,13.521388 0 0 0 -13.52124,13.52124 13.521388,13.521388 0 0 0 13.52124,13.52125 13.521388,13.521388 0 0 0 13.52124,-13.52125 13.521388,13.521388 0 0 0 -13.52124,-13.52124 z m 0,3.33128 a 10.190031,10.190031 0 0 1 10.18995,10.18996 10.190031,10.190031 0 0 1 -10.18995,10.18997 10.190031,10.190031 0 0 1 -10.18995,-10.18997 10.190031,10.190031 0 0 1 10.18995,-10.18996 z"
+           id="path4172"
+           inkscape:export-filename="C:\Users\ramachandra\Desktop\Unity\2D Racing\Assets\Sprites\greenshell.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="fill:none;stroke:#ff3300;stroke-width:9.21082973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3016"
+           width="173.17578"
+           height="54.348644"
+           x="254.66238"
+           y="218.10524"
+           ry="0"
+           inkscape:export-filename="C:\Users\Ajay\Documents\Unity Projects\2D Race\2D Racing 2\Assets\Sprites\button.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:export-ydpi="120"
+           inkscape:export-xdpi="120"
+           inkscape:export-filename="C:\Users\Ajay\Documents\Unity Projects\2D Race\2D Racing 2\Assets\Sprites\redshell.png"
+           id="path3793"
+           d="m 88.180672,274.39388 a 13.521388,13.521388 0 0 0 -13.52124,13.52124 13.521388,13.521388 0 0 0 13.52124,13.52125 13.521388,13.521388 0 0 0 13.521238,-13.52125 13.521388,13.521388 0 0 0 -13.521238,-13.52124 z m 0,3.33128 a 10.190031,10.190031 0 0 1 10.18995,10.18996 10.190031,10.190031 0 0 1 -10.18995,10.18997 10.190031,10.190031 0 0 1 -10.18995,-10.18997 10.190031,10.190031 0 0 1 10.18995,-10.18996 z"
+           style="fill:#ff0000;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect3799"
+           width="76.280952"
+           height="90.053902"
+           x="-16.565428"
+           y="191.52266" />
+        <g
+           id="g3833"
+           transform="matrix(1.9333525,0,0,1.9333525,-42.659894,-230.26383)"
+           inkscape:export-filename="C:\Users\Ajay\Documents\Unity Projects\2D Race\2D Racing 2\Assets\Sprites\ghost.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             d="M -311.0625 1180.5938 C -377.12684 1180.5938 -430.6875 1234.1231 -430.6875 1300.1875 L -430.6875 1388.0938 L -430.65625 1388.0938 L -430.65625 1477.9375 L -426.78125 1477.9375 L -394.53125 1434.9688 L -370.25 1477.9375 L -367.53125 1477.9375 L -334.96875 1439.875 L -310.5 1477.9375 L -306.4375 1477.9375 L -278.34375 1439.875 L -248.9375 1477.9375 L -242.09375 1477.9375 L -219.75 1441.7812 L -202.09375 1477.9375 L -191.46875 1477.9375 L -191.46875 1388.0938 L -191.4375 1388.0938 L -191.4375 1300.1875 C -191.4375 1234.1231 -244.99814 1180.5938 -311.0625 1180.5938 z "
+             transform="matrix(0.11309059,0,0,0.11309059,67.352338,90.282356)"
+             id="path3817"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"
+             inkscape:export-filename="C:\Users\Ajay\Documents\Unity Projects\2D Race\2D Racing 2\Assets\Sprites\PowerUps\ghost.png" />
+          <path
+             transform="matrix(0.21864398,0,0,0.21864398,87.555917,-55.716211)"
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             d="m -286.01683,1315.7922 c 1.51613,-5.6583 7.33212,-9.0162 12.99038,-7.5 5.65827,1.5161 9.01613,7.3321 7.5,12.9903 -1.51612,5.6583 -7.33211,9.0162 -12.99038,7.5 -4.63703,-1.2424 -7.86141,-5.4445 -7.86141,-10.2451"
+             id="path3829" />
+          <path
+             transform="matrix(0.21864398,0,0,0.21864398,98.046946,-55.716211)"
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             d="m -286.01683,1315.7922 c 1.51613,-5.6583 7.33212,-9.0162 12.99038,-7.5 5.65827,1.5161 9.01613,7.3321 7.5,12.9903 -1.51612,5.6583 -7.33211,9.0162 -12.99038,7.5 -4.63703,-1.2424 -7.86141,-5.4445 -7.86141,-10.2451"
+             id="path3831" />
+        </g>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect3802"
+           width="598.2572"
+           height="416.28729"
+           x="1115.5004"
+           y="747.00171"
+           transform="matrix(0.21864398,0,0,0.21864398,87.555917,-55.716211)" />
+        <rect
+           inkscape:export-ydpi="40.727268"
+           inkscape:export-xdpi="40.727268"
+           inkscape:export-filename="C:\Users\Ajay\Documents\Unity Projects\2D Race\2D Racing 2\Assets\Sprites\finishline.png"
+           ry="0"
+           y="-425.28592"
+           x="146.19727"
+           height="61.845009"
+           width="12.337767"
+           id="rect3816"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(0,1,-1,0,0,0)" />
+      </g>
+    </g>
+  </g>
+</svg>

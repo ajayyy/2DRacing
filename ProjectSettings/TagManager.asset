@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Greenshell
+  - Obstacle
+  - Redshell
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player1 UI
+  - Player2 UI
+  - Player1 Ghost Mode
+  - Obstacle
+  - Player2 Ghost Mode
+  - Player
+  - PowerUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Track
+    uniqueID: 3484241963
+    locked: 0
+  - name: Player
+    uniqueID: 3440073
+    locked: 0
+  - name: UI
+    uniqueID: 4182989841
+    locked: 0
