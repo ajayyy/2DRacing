@@ -1219,10 +1219,10 @@ MonoBehaviour:
     m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
+    m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xA9 2017 Ajay Ramachandran"
+  m_Text: "\xA9 2017 Ajay Ramachandran | http://ajayinkingston.com"
 --- !u!222 &1760597437
 CanvasRenderer:
   m_ObjectHideFlags: 0
