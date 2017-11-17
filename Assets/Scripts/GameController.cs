@@ -51,10 +51,13 @@ public class GameController : MonoBehaviour {
 			Destroy (gameObject);
 		}
 
-        ThreadStart generationRef = new ThreadStart(GenerateEverything); //start the generation thread
-		generationThread = new Thread(generationRef);
-		generationThread.Start();
-
+        if(Application.platform == RuntimePlatform.WebGLPlayer) {
+            GenerateEverything();
+        } else {
+            ThreadStart generationRef = new ThreadStart(GenerateEverything); //start the generation thread
+            generationThread = new Thread(generationRef);
+            generationThread.Start();
+        }
 
     }
 
