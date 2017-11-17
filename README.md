@@ -7,3 +7,5 @@ Currently a 2 player split screen game.
 My first full scale Unity game. Made for school
 
 [Download](https://github.com/ajayyy/2DRacing/releases)
+
+[Play Online](http://ajayinkingston.com/FocusProgramSite/2DRacing/">http://ajayinkingston.com/FocusProgramSite/2DRacing/)
