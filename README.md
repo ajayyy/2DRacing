@@ -8,4 +8,4 @@ My first full scale Unity game. Made for school
 
 [Download](https://github.com/ajayyy/2DRacing/releases)
 
-[Play Online](http://ajayinkingston.com/FocusProgramSite/2DRacing/">http://ajayinkingston.com/FocusProgramSite/2DRacing/)
+[Play Online](http://ajayinkingston.com/FocusProgramSite/2DRacing/)
